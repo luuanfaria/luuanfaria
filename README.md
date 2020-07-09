@@ -9,7 +9,7 @@
 - 🏢 I'm currently working at **Detag**,
 - 🌍 I'm open to new job opportunities as **Front-End and Full-Stack Jr**
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`,
-- 💅 Jobs: @pestphp, [CentralBikesBicicletaria.com.br/](http://www.centralbikesbicicletaria.com.br), [EscritorioContabilvender.com.br](http://escritoriocontabilvender.com.br), [AgueroInox.com.br](http://www.agueroinox.com.br), [PatrimoniumServicos.com.br](http://patrimoniumservicos.com.br/)etc…
+- 💅 Jobs: [Central Bikes](http://www.centralbikesbicicletaria.com.br), [Escritorio Contabil](http://escritoriocontabilvender.com.br), [AgueroInox](http://www.agueroinox.com.br), [Patrimonium](http://patrimoniumservicos.com.br/) etc...
 - 🌱 Learning all about **React JS**
 - 📫 Reach me: [twitter.com/luuanfariaf](https://twitter.com/luuanfariaf)
 
