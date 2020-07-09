@@ -11,6 +11,6 @@
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`,
 - 💅 Jobs: [Central Bikes](http://www.centralbikesbicicletaria.com.br), [Escritorio Contabil](http://escritoriocontabilvender.com.br), [AgueroInox](http://www.agueroinox.com.br), [Patrimonium](http://patrimoniumservicos.com.br/) etc...
 - 🌱 Learning all about **React JS**
-- 📫 Reach me: [twitter.com/luuanfariaf](https://twitter.com/luuanfariaf)
+- 📫 Reach me: [linkedin.com/in/luuanfaria/](https://www.linkedin.com/in/luuanfaria/)
 
 ---
