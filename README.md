@@ -9,7 +9,7 @@
 - 🏢 I'm currently working at **Detag**,
 - 🌍 I'm open to new job opportunities as **Front-End and Full-Stack Jr**
 - ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`,
-- 💅 Jobs: [Central Bikes](https://centralbikesbicicletaria.com.br), [Escritorio Contabil](http://escritoriocontabilvender.com.br), [AgueroInox](http://www.agueroinox.com.br), [Patrimonium](http://patrimoniumservicos.com.br/), [Asaf](https://asafconsigbrasil.com.br/), etc...
+- 💅 Jobs: [Central Bikes](https://github.com/luuanfaria/Central-Bikes), [Escritorio Contabil](http://escritoriocontabilvender.com.br), [AgueroInox](http://www.agueroinox.com.br), [Patrimonium](https://github.com/luuanfaria/Grupo-Patrimonium), [Asaf](https://github.com/luuanfaria/asaf), [RTX](https://github.com/luuanfaria/rtx), [Foodfy](https://github.com/luuanfaria/Foodfy), [Tela de Cadastro](https://github.com/luuanfaria/Login-Cadastro), etc...
 - 🌱 Learning all about **React JS**
 - 📫 Reach me: [linkedin.com/in/luuanfaria/](https://www.linkedin.com/in/luuanfaria/)
 
