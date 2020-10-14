@@ -6,7 +6,7 @@
 
 #### I'm a Front-End Developer working in São Paulo, Brasil.
 
-- 🏢 I'm currently working as **Front-End Freelancer**,
+- 🏢 I'm currently working as **Front-End Freelancer**
 - 🌍 I'm open to new job opportunities as **Front-End and Full-Stack Jr**
 - ⚙️ I use daily: `.php`, `.js`, `.vue`, `.html`, `.css`, `.svg`, `.psd`,
 - ![Twitter Badge](https://img.icons8.com/windows/24/000000/portfolio.png) Jobs: [Central Bikes](https://github.com/luuanfaria/Central-Bikes), [Escritorio Contabil](http://escritoriocontabilvender.com.br), [AgueroInox](http://www.agueroinox.com.br), [Patrimonium](https://github.com/luuanfaria/Grupo-Patrimonium), [Asaf](https://github.com/luuanfaria/asaf), [RTX](https://github.com/luuanfaria/rtx), [Foodfy](https://github.com/luuanfaria/Foodfy), [Tela de Cadastro](https://github.com/luuanfaria/Login-Cadastro), etc...
