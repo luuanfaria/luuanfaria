@@ -10,15 +10,15 @@ An enthusiast in constant learning.
 [Luan Faria - Professional Portfolio](https://luuanfaria.github.io/)
 
 ##  Skills 
-♞. HTML5
-♞. CSS3
-♞. SASS 
-♞. BOOTSTRAP
-♞. JAVASCRIPT
-♞. REACT JS
-♞. NPM / YARN
-♞. GIT/GITHUB
-♞. NODE JS
+. HTML5
+. CSS3
+. SASS 
+. BOOTSTRAP
+. JAVASCRIPT
+. REACT JS
+. NPM / YARN
+. GIT/GITHUB
+. NODE JS
 
 ### Contact me
 <p align="left">
