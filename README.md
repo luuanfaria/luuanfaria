@@ -1,17 +1,31 @@
-# Luan Faria
-[![Twitter Badge](https://img.shields.io/badge/-@luuanfariaf-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/luuanfariaf)](https://twitter.com/luuanfariaf) [![Linkedin Badge](https://img.shields.io/badge/-luuanfaria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luuanfaria/)](https://www.linkedin.com/in/luuanfaria/)
-[![Gmail Badge](https://img.shields.io/badge/-luuan.fariaf@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luuan.fariaf@gmail.com)](mailto:luuan.fariaf@gmail.com)
+<img src="/programming.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-### Hello World 👋
+<p align="left"> 
+  Hello, my name is Luan Faria,  I am <strong>Front-end Developer</strong> <br>
+</p>
 
-#### I'm a Front-End Developer working in São Paulo, Brasil.
+##  Skills 
+♞. HTML5
+♞. CSS3
+♞. SASS 
+♞. BOOTSTRAP
+♞. JAVASCRIPT
+♞. REACT JS
+♞. NPM / YARN
+♞. GIT/GITHUB
+♞. NODE JS
 
-- 🏢 I'm currently working as **Front-End Freelancer**
-- 🌍 I'm open to new job opportunities as **Front-End and Full-Stack Jr**
-- ⚙️ I use daily: `.php`, `.js`, `.vue`, `.html`, `.css`, `.svg`, `.psd`
-- ![Twitter Badge](https://img.icons8.com/windows/24/000000/portfolio.png) Jobs: [Central Bikes](https://github.com/luuanfaria/Central-Bikes), [Escritorio Contabil](http://escritoriocontabilvender.com.br), [AgueroInox](http://www.agueroinox.com.br), [Patrimonium](https://github.com/luuanfaria/Grupo-Patrimonium), [Asaf](https://github.com/luuanfaria/asaf), [RTX](https://github.com/luuanfaria/rtx), [Foodfy](https://github.com/luuanfaria/Foodfy), [Tela de Cadastro](https://github.com/luuanfaria/Login-Cadastro), etc...
-- 🌱 Learning all about **React JS & VueJS**
-- 📫 Reach me: [linkedin.com/in/luuanfaria/](https://www.linkedin.com/in/luuanfaria/)
-- More: [luuanfaria.github.io](https://luuanfaria.github.io)
+### Contact me
+<p align="left">
+  <a href="mailto:luuan.fariaf@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=luuan.fariaf@gmail.com" /></a>
 
----
+  <a href="https://www.linkedin.com/in/luuanfaria/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luuanfaria/" /></a>
+
+  <a href="https://api.whatsapp.com/send?phone=5511960489011&text=Olá%20Luan,%20tudo%20bem?" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511960489011&text=Olá%20Luan,%20tudo%20bem?"/></a>
+
+  <a href="https://www.instagram.com/luanfariaf/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/luanfariaf/"/></a>
+</p> 
