@@ -5,10 +5,6 @@
 An enthusiast in constant learning.
 </p>
 
-### Portfolio
-
-[Luan Faria - Professional Portfolio](https://luuanfaria.github.io/)
-
 ##  Skills 
 . HTML5
 . CSS3
@@ -19,6 +15,10 @@ An enthusiast in constant learning.
 . NPM / YARN
 . GIT/GITHUB
 . NODE JS
+
+### Portfolio
+
+[Luan Faria - Professional Portfolio](https://luuanfaria.github.io/)
 
 ### Contact me
 <p align="left">
