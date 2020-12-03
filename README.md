@@ -2,7 +2,12 @@
 
 <p align="left"> 
   Hello, my name is Luan Faria,  I am <strong>Front-end Developer</strong> <br>
+An enthusiast in constant learning.
 </p>
+
+### Portfolio
+
+[Luan Faria - Professional Portfolio](https://luuanfaria.github.io/)
 
 ##  Skills 
 ♞. HTML5
