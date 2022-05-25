@@ -9,7 +9,7 @@
 - 💻 I'm web developer since 2020
 - ⚛️ JavaScript | NodeJS | React
 - 🚀 I'm a freelancer and working as FullStack Developer.
-- ✨ I try to help people who are studying programming on [Youtube](https://www.youtube.com/channel/UC8hYdAY6LhXhbp_o0Qtk-ZQ) and [Twitch](https://www.twitch.tv/jakeliny)
+- ✨ Studying about Cypress, Jest and SwiftUI.
 - 📫 How to reach me: [my site](https://luuanfaria.dev), [linkedIn](https://www.linkedin.com/in/luuanfaria/)
 
 
