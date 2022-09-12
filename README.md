@@ -1,22 +1,7 @@
-<img src="https://raw.githubusercontent.com/luuanfaria/luuanfaria/master/github-header-image.png" width="100%">
-
-
-**Hi there , I'm Luan! <img src="[https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/cat-gif.gif](https://media-exp1.licdn.com/dms/image/C4E03AQFudKO9wUeGkQ/profile-displayphoto-shrink_200_200/0/1644367481037?e=1658966400&v=beta&t=dcqSUL4N3zGMkUS13iywxqdO4_mPBWTHql1Ak8U9qKo)" width="50">**
-
-* * *
-
-**About me:**
-- 💻 I'm web developer since 2020
-- ⚛️ JavaScript | NodeJS | React
-- 🚀 I'm a freelancer and working as FullStack Developer.
-- ✨ Studying about Cypress, Jest and SwiftUI.
-- 📫 How to reach me: [my site](https://luuanfaria.dev), [linkedIn](https://www.linkedin.com/in/luuanfaria/)
-
-
-
-**Languages and tools:**
-
-<img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/javascript.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/typescript.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/nodejs.png">
-<img align="left" height="20" src="https://raw.githubusercontent.com/jakeliny/jakeliny/master/images/react.png">
+<p align="center">
+  <samp>
+    <a href="https://luuanfaria.dev">website</a> .
+    <a href="https://linkedin.com/in/luuanfaria">linkedin</a> .
+    <a href="https://twitter.com/luuanfariaf">twitter</a> .
+  </samp>
+</p>
